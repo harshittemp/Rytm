@@ -1,0 +1,6 @@
+@Rytm_HostAddress = http://localhost:5242
+
+GET {{Rytm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
